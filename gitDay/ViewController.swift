@@ -12,11 +12,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        print("First Intial commit ")
-        print("Hello world!")
-        print("branch 1 ")
-        print("second commit on branch 1")
-        print("third commit on branch 1")
+        print("Hossain Aarafat")
+        print("ali")
+
     }
 
 
