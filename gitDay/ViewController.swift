@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("First Intial commit ")
         print("Hello world!")
         print("branch 1 ")
+        print("second commit on branch 1")
     }
 
 
